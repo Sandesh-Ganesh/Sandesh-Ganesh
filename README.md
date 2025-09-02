@@ -1,4 +1,4 @@
-## Hi I', Sandesh 👋
+## Hi, I'm Sandesh 👋
 
 I'm an MCA student at MIT, Manipal
 <!--
