@@ -1,6 +1,6 @@
 ## Hi, I'm Sandesh 👋
 
-I'm an MCA student at MIT, Manipal
+I'm MCA student at MIT, Manipal
 <!--
 **Sandesh-Ganesh/Sandesh-Ganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
